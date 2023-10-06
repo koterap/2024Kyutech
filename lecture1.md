@@ -21,7 +21,9 @@
 
 ## 4. 課題
 
-ビデオデモンストレーションで示したものと同様のJupyter notebookを[Google Colaboratory](colaboratory.md)で作成し、それを講師の[Googleアカウント](ikemenmaskot@gmail.com)に共有してください。完全に同一である必要はありません。自分の理解と能力の範囲内で、[ChatGPT](ChatGPT.md)と相談しながらコードを書き、実行する経験を積んでください。
+ビデオデモンストレーションで示したものと同様のJupyter notebookを[Google Colaboratory](colaboratory.md)で作成し、それを講師の[Googleアカウント](ikemenmaskot@gmail.com)に[共有](share_colaboratory.md)してください。完全に同一である必要はありません。自分の理解と能力の範囲内で、[ChatGPT](ChatGPT.md)と相談しながらコードを書き、実行する経験を積んでください。
+
+- [共有方法](share_colaboratory.md)
 
 ## 5. 注意点
 
