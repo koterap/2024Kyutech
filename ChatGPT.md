@@ -4,7 +4,7 @@ ChatGPTは、OpenAIが開発した人工知能（AI）ベースのチャット�
 
 ## 1. ChatGPTへのログイン方法
 
-ChatGPTにアクセスするには、まずOpenAIのウェブサイトにアクセスします。その後、ChatGPTのページを見つけてクリックします。そこから「Try it free」ボタンをクリックして、ChatGPTのインターフェースにアクセスします。
+ChatGPTにアクセスするには、まず[OpenAIのウェブサイト](https://chat.openai.com/)にアクセスします。その後、[ChatGPTのページ](https://chat.openai.com/)を見つけてクリックします。そこから「Try it free」ボタンをクリックして、ChatGPTのインターフェースにアクセスします。
 
 Googleアカウントを持っている場合、それを使用してログインすることができます。ログインページで「Continue with Google」を選択し、Googleアカウントの認証情報を入力します。
 
