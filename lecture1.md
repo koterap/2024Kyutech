@@ -8,7 +8,7 @@
 
 1. **化学情報学の概要**: [化学情報学の基本的な概念とその重要性](cheminformatics.md)について説明します。
 2. **RDKitの紹介**: [RDKitという化学情報学のためのPythonライブラリ](RDKit.md)について紹介します。
-3. **Google Colaboratoryの使用**: Google Colaboratoryの基本的な使い方を学びます。
+3. **Google Colaboratoryの使用**: [Google Colaboratory](colaboratory.md)の基本的な使い方を学びます。
 4. **RDKitとGoogle Colaboratoryの組み合わせ**: RDKitを使用して化合物の化学構造を描画し、物性値を計算するPythonコードをGoogle Colaboratoryで実行します。この際、ChatGPTと相談しながらコードを書く方法についても学びます。
 
 ## 3. ビデオデモンストレーション
