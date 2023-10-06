@@ -15,6 +15,8 @@
 
 各トピックについて、ビデオ録画によるデモンストレーションを提供します。これらのビデオを視聴することで、具体的な操作方法やコードの書き方、そして[ChatGPT](ChatGPT.md)と相談しながらコードを書く方法を学ぶことができます。
 
+- [第１回講義ビデオ](https://www.youtube.com/watch?v=m6JCLH9F538)
+
 ## 4. 課題
 
 ビデオデモンストレーションで示したものと同様のJupyter notebookを[Google Colaboratory](colaboratory.md)で作成し、それを講師の[Googleアカウント](ikemenmaskot@gmail.com)に共有してください。完全に同一である必要はありません。自分の理解と能力の範囲内で、[ChatGPT](ChatGPT.md)と相談しながらコードを書き、実行する経験を積んでください。
