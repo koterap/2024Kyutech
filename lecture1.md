@@ -1,5 +1,7 @@
 # 第1回講義：化学情報学入門 - RDKitとGoogle Colaboratoryの使用
 
+講師：[小寺正明](https://scholar.google.com/citations?user=UVyoQ7YAAAAJ&hl=ja)
+
 ## 1. 講義の目的
 
 この講義では、化学情報学（ケモインフォマティクス）の基本的な概念と、RDKitという化学情報学のためのPythonライブラリを使用して化合物の化学構造を描画したり、さまざまな物性値を計算する方法を学びます。また、Google ColaboratoryというクラウドベースのPython実行環境を使用して、これらのコードを実行する方法も学びます。特に、ChatGPTと相談しながらコードを書くことを重視します。
