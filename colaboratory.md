@@ -7,7 +7,7 @@ Google Colaboratory（通称：Colab）は、Googleが提供するクラウド�
 
 Google Colabは、Google Drive上から開始します。以下の手順で新しいノートブックを作成することができます。
 
-1. Google Driveを開きます。
+1. [Google Drive](https://drive.google.com/drive/u/0/)を開きます。
 2. 左上の「＋新規」ボタンをクリックします。
 3. 「その他」を選択し、ドロップダウンメニューから「Google Colaboratory」を選択します。
 
